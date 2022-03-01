@@ -6,6 +6,8 @@ It will also generate suggestions for the words deems incorrect or missing from 
 Sets in general do not allow any duplicated values.
 
 HashSet and TreeSet: Classes that implements the Set interface and by extension, the Collection interface. 
+
 HashSet:  HashSet will not guarantee the insertion order (unordered). Because of this, its more efficient than the TreeSet.
+
 TreeSet: TreeSet always guarantee the insertion order. Unlike the HashSet, it will return a sorted collection. 
 
